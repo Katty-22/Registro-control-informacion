@@ -1,4 +1,7 @@
 <?php
+
+// esta clase permite hacer una conexión con la base de datos
+
     class db{
         private $host= "localhost";
         private $dbname="actividad-4";
